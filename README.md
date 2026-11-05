@@ -22,7 +22,7 @@ Neurito mira hambre, energía y aburrimiento, y elige: comer, dormir o jugar. Ga
 - Softmax: convierte la salida en porcentajes que suman 100 %.
 - Precisión engañosa: el 99 % es contra una regla inventada, y los pocos errores están justo en los empates, que son los casos difíciles.
 
-# Experimentos: Neurito aprende a saltar
+# Experimentos: Neurito aprende a saltar- TALLER 2
 
 Neurito aprende cuándo saltar un obstáculo. Cada prueba duró unos 5 minutos de juego.
 
